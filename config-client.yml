@@ -8,7 +8,7 @@ spring:
     name: config-client
     
 welcome:
-  message: Hello Ritam !!
+  message: Hello World!!
   
 server:
   port: 8082
