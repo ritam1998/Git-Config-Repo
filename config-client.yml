@@ -1,2 +1,8 @@
-welcome:
-  message: Hello Ritam
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8080
+      enabled: true
+      
+  application:
+    name: config-client
