@@ -12,7 +12,7 @@ server:
   
 eureka:
   instance:
-    hostname: localhost
+    hostname: 192.168.0.104
   client:
     register-with-eureka: false
     fetch-registry: false
