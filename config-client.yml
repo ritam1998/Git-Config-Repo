@@ -6,3 +6,6 @@ spring:
       
   application:
     name: config-client
+    
+welcome:
+  message: Hello !!
