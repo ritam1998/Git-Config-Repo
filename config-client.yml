@@ -9,3 +9,6 @@ spring:
     
 welcome:
   message: Hello Ritam !!
+  
+server:
+  port: 8082
