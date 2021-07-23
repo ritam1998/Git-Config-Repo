@@ -1,4 +1,2 @@
-hello:
-  rel: badhshah
-owner:
-  name: Ritam De
+welcome:
+  message: Hello Ritam
